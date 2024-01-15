@@ -22,6 +22,9 @@ namespace Herencia
 
             Console.WriteLine(d1.Greet());
 
+            Console.WriteLine("Testing commits");
+            Console.WriteLine("Testing again");
+
             Console.ReadKey();
         }
     }
