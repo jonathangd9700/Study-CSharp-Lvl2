@@ -14,6 +14,8 @@ namespace Herencia
 
         public int Edad { get; set; }
 
+        public int EyeColor { get; set; }
+
         public string Greet() 
         {
             return $"Hola mi nombre es {Nombre}";
